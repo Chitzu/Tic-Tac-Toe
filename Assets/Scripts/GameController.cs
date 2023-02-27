@@ -30,7 +30,7 @@ public class GameController : MonoBehaviour
     private int moveCount;
     public bool gameAlreadyOver;
 
-    public GameObject restartButton;
+    public GameObject restartButton; 
 
     public Player playerX;
     public Player playerO;
